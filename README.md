@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alex-57soto&label=Profile%20views&color=0e75b6&style=flat" alt="alex-57soto" /> </p>
 
-- 🔭 I’m currently working on [SQL Data Exploration](https://github.com/Alex-57Soto/Excel-Shopping-Dashboard)
+- 🔭 I’m currently working on [SQL Data Exploration](https://github.com/Alex-57Soto/SQL-Data-Exploration/tree/main)
 
 - 🌱 I’m currently learning more advanced **SQL and Tableau**
 
